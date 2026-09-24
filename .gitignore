@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+.alumnvenv/
+.venv/
+faiss_index/
+.vscode/
+alumni_records.csv
+.env
+faiss_index/
+__pycache__/
+
+alumni_records.csv
+.env
+faiss_index/
+__pycache__/
